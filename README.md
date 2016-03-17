@@ -1,3 +1,5 @@
+Johan was here
+
 # Markingbird: A Markdown Processor in Swift
 
 This library provides a [Markdown](http://daringfireball.net/projects/markdown/) processor written in [Swift](https://developer.apple.com/swift/) for OS X and iOS. It is a translation/port of the [MarkdownSharp](https://code.google.com/p/markdownsharp/) processor used by [Stack Overflow](http://blog.stackoverflow.com/2009/12/introducing-markdownsharp/).
